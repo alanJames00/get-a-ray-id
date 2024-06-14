@@ -1,6 +1,6 @@
 # get-a-ray-id
 
-get-a-ray-id is an micro-API designed to generate unique Cloudflare Ray IDs. These Ray IDs can be used for various purposes, such as tracking requests and debugging issues in a distributed system. The API ensures that each Ray ID is unique and follows the format used by Cloudflare.
+get-a-ray-id is an micro-API build on top of Cloudflare workers designed to generate unique Cloudflare Ray IDs. These Ray IDs can be used for various purposes, such as tracking requests and debugging issues in a distributed system. The API ensures that each Ray ID is unique and follows the format used by Cloudflare.
 
 - Generates unique Cloudflare Ray IDs.
 - Easy-to-use RESTful API.
